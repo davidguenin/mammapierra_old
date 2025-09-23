@@ -18,7 +18,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Pierres 100% naturelles</strong>",
-            "text": "<h6>14 jours pour changer d’avis et demander un échange ou remboursement</h6>",
+            "text": "<h6>soigneusement choisies auprès de partenaires basés en France.</h6>",
             "link_label": "",
             "link": ""
           }
@@ -59,7 +59,7 @@
       ],
       "custom_css": [
         ".multicolumn {background: #4b5d56; margin-bottom: 0; text-align: center;}",
-        "strong{font-weight: normal;}",
+        "strong {font-weight: normal;}",
         "h3 {font-size: 1.5rem; line-height: 1.2; opacity: 0.9; text-transform: uppercase; color: #fff;}",
         "h6 {max-width: 250px; margin: auto; font-size: 1rem; opacity: 0.7; color: #fff; font-weight: normal;}"
       ],
