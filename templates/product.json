@@ -74,7 +74,7 @@
           "settings": {
             "heading": "Informations complémentaires",
             "icon": "eye",
-            "content": "",
+            "content": "<ul><li>Une <strong>fabrication à la commande</strong> qui s’inscrit dans une logique responsable en réduisant le gaspillage de matériaux.</li><li>Des <strong>pierres et apprêts</strong> soigneusement choisis auprès de partenaires basés en <strong>France</strong>, gages de <strong>qualité</strong> et de proximité.</li></ul>",
             "page": ""
           }
         },
@@ -141,7 +141,7 @@
     "related-products": {
       "type": "related-products",
       "custom_css": [
-        "h2{text-transform: uppercase;}"
+        "h2 {text-transform: uppercase;}"
       ],
       "settings": {
         "heading": "<strong>Vous aimerez aussi </strong>",
