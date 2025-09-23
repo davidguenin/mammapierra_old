@@ -81,9 +81,9 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Livraison et retours",
+            "heading": "Paiement, Livraison et retours",
             "icon": "truck",
-            "content": "<p><strong>Livraison</strong></p><p>Livraison offerte à partir de 49€ en point relais.</p><p></p><p><strong>Retour</strong></p><p>Si vous souhaitez retourner un ou plusieurs articles, vous disposez d'un délai de 14 jours  pour être remboursé.e. Afin de retourner votre bijou, merci de nous contacter par mail à marion@mammapierra.com.</p>",
+            "content": "<p><strong>Paiement</strong></p><ul><li><strong>Paiement 100 % sécurisé</strong> : cryptage des données.</li></ul><p><strong>Livraison</strong></p><ul><li><strong>Expédition sous 48h </strong>: bijoux fabriqués le lendemain de la commande et expédiés dès le sur-lendemain.</li><li><strong>Livraison offerte à partir de 49€</strong> en point relais.</li></ul><p><strong>Retour</strong></p><ul><li>Si vous souhaitez retourner un ou plusieurs articles, vous disposez d'un <strong>délai de 14 jours</strong>  pour être remboursé.e. Afin de retourner votre bijou, merci de nous contacter par mail à marion@mammapierra.com.</li></ul>",
             "page": ""
           }
         },
