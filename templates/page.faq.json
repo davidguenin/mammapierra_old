@@ -169,12 +169,22 @@
             "row_content": "<p>Contactez-nous sous 48h avec une photo à l’appui à <a>marion@mammapierra.com</a>. Nous vous proposerons une solution rapide.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_wPEPfE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Est-ce que vos bijoux sont garantis ?",
+            "icon": "check_mark",
+            "row_content": "<p>Nos bijoux sont garantis 6 mois à compter de la date d'achat. Nous nous occupons de la réparation ou du remplacement des bijoux en cas de problème.</p><p>Envoyez-nous un mail contenant les photos du bijou endommagé afin que nous étudions la meilleure solution à vous proposer.</p><p>Les frais de retour sont à la charge du client.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_4QH6aE",
         "collapsible_row_T6UYXN",
-        "collapsible_row_9Tjehb"
+        "collapsible_row_9Tjehb",
+        "collapsible_row_wPEPfE"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
@@ -200,7 +210,7 @@
           "settings": {
             "heading": "Vos pierres sont-elles naturelles ?",
             "icon": "check_mark",
-            "row_content": "<p>Oui, nous utilisons uniquement des pierres naturelles véritables, garanties sans traitement chimique. Chaque pierre est unique. </p><p>Nous avons à coeur de choisir des pierres de qualité.</p>",
+            "row_content": "<p>Oui, nous utilisons uniquement des pierres naturelles véritables, garanties sans traitement chimique. Chaque pierre est unique. </p><p>Nous avons à coeur de choisir des pierres de qualité auprès de partenaires français.</p>",
             "page": ""
           }
         },
@@ -209,7 +219,7 @@
           "settings": {
             "heading": "Vos bijoux résistent-ils à l’eau ?",
             "icon": "check_mark",
-            "row_content": "<p>Nos bijoux en acier inoxydable doré 316L sont résistants à l’eau et ne noircissent pas. Nous recommandons toutefois de les retirer sous la douche ou avant de donner le bain à vos enfants, de faire du sport ou de dormir pour préserver leur éclat plus longtemps.</p>",
+            "row_content": "<p>Nos bijoux en acier inoxydable doré 316L sont résistants à l’eau et ne noircissent pas. </p><p>Nous recommandons toutefois de les retirer sous la douche ou avant de donner le bain à vos enfants, de faire du sport ou de dormir pour préserver leur éclat plus longtemps.</p>",
             "page": ""
           }
         },
@@ -227,7 +237,7 @@
           "settings": {
             "heading": "Puis-je interchanger les pendentifs sur tous les colliers et bracelets ?",
             "icon": "check_mark",
-            "row_content": "<p>Oui, tous nos pendentifs sont interchangeables et compatibles avec les colliers et bracelets des collections Vibe et Éclat.</p>",
+            "row_content": "<p>Oui, tous nos pendentifs sont interchangeables et compatibles avec les colliers et bracelets des collections Vibe et Éclat (chaîne).</p>",
             "page": ""
           }
         },
